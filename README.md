@@ -50,7 +50,7 @@ language pair analysis, and within- vs. between-subfamily distance comparison
 
 
 ## Authors
-This project was completed as the final project for COMP 550 (Natural Language Processing), McGill University, Fall 2025.
+This project was completed as the final project for COMP 550 (Natural Language Processing), McGill University, Winter 2026.
 
 - Raisa Chowdhury
 - Jaya Bonelli
